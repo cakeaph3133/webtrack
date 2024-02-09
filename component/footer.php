@@ -23,7 +23,7 @@
       </div>
 
       <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-        <h5 class="text-uppercase">ADdress</h5>
+        <h5 class="text-uppercase">ที่อยู่</h5>
 
         <p>
           สำนักงานส่งเสริมเศรษฐกิจดิจิทัล เลขที่ 80 ถนนลาดพร้าว ซอยลาดพร้าว 4 แขวงจอมพล เขตจตุจักร กรุงเทพมหานคร 10900
