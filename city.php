@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/styles.css">
     <title>City</title>
+    <link rel="icon" type="image/x-icon" href="../tracktag/img/favi.png">
     <style>
         .title-container {
             text-align: center;
